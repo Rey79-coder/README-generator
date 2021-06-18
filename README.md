@@ -12,24 +12,23 @@
 - [Questions](#Questions)
 - [email](#email)
 
-## Description:
+# Description:
     This video game is to promote Echeriri. Because Echeriri believes on branding is investing in different marketing fields. Potential audience are gamers, developers, and humans in general. Therefore, this free web browser video game is created.
-### Installation:
+# Installation:
     You don't need any installation. Go to echeiriri.com/videogame/ to play it and have fun saving Earth.
-#### Usage:
+# Usage:
     You can play it in any electronic device. For further instructions of how to play on specific platform visit: echeriri.com/videogame/instructions/
-##### Contributing:
+# Contributing:
     Any developer interested in being part of Echeriri Web Development Department please contact me for more details.
-###### Link:
+# Link:
     https://rey79-coder.github.io/README-generator/
-###### Questions:
+# Questions:
     How are going to make profit with this video game?
-###### email:
+# email:
     verareyna79@gmail.com
 
-    For questions about the Generator you can go to my 
-    GitHub page at the following Link: 
-- [GitHub Profile](https://github.com/Rey79-coderundefined)
+    # For questions about the Generator you can go to my 
+    GitHub page at the following Link:(https://github.com/Rey79-coder)
 For additional questions please reach out to my email at: verareyna79@gmail.com.
     Here is a video on how to work the application.
-- [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
+# [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)

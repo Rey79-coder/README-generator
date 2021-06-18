@@ -136,27 +136,26 @@ function generateMarkdown(response) {
 - [Questions](#Questions)
 - [email](#email)
 
-## Description:
+# Description:
     ${response.Description}
-### Installation:
+# Installation:
     ${response.installation}
-#### Usage:
+# Usage:
     ${response.usage}
-##### Contributing:
+# Contributing:
     ${response.Contribution}
-###### Link:
+# Link:
     ${response.Link}
-###### Questions:
+# Questions:
     ${response.Questions}
-###### email:
+# email:
     ${response.email}
 
-    For questions about the Generator you can go to my 
-    GitHub page at the following Link: 
-- [GitHub Profile](https://github.com/Rey79-coder${response.username})
+    # For questions about the Generator you can go to my 
+    GitHub page at the following Link:(https://github.com/Rey79-coder)
 For additional questions please reach out to my email at: ${response.email}.
     Here is a video on how to work the application.
-- [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
+# [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
 `;
 }
 
