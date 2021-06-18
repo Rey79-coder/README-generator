@@ -1,25 +1,25 @@
 
-# Echeriri Covid/Killers
+# Echeriri Covid/Killers Video Game
 
 ## Table of Content
 
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [License](#Licenses)
+- [Licenses](#Licenses)
 - [Contribution](#Contribution)
 - [Link](#Link)
 - [Questions](#Questions)
 - [email](#email)
 
 ## Description:
-    This video game is to promote Echeriri. Because Echeriri believes on branding is investing in different marketing fields. Potential audience are gamers, developers, and humans in general. Therefore, this free web browser video game is created.
+    This video game is to promote Echeriri brand.  Potential audience are gamers, developers, and humans in general.Therefore, this free web browser video game. 
 ## Installation:
-    undefined
+    You don't need any installation. Go to echeiriri.com/videogame/ to play it and have fun saving Earth.
 ## Usage:
-    undefined
-## Contributing:
-    Any developer interested in being part of Echeriri Web Development Department please contact me for more details.
+    You can play it in any electronic device. For further instructions of how to play on specific platform visit: echeriri.com/videogame/instructions/
+## Contribution:
+    Any developer interested in being part of Echeriri Web Development Department. Please contact me for more details.
 ## Link:
     https://rey79-coder.github.io/README-generator/
 ## Questions:
@@ -27,8 +27,7 @@
 ## email:
     verareyna79@gmail.com
 
-## Questions about the README-Generator:
-    You can go to my GitHub page at the following Link:(https://github.com/Rey79-coder)
-For additional questions please reach out to my email at: verareyna79@gmail.com.
-    Here is a video on how to work the application.
-#[Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
+## For addittional questions about README-Generator:
+   Please reach out to my email at: verareyna79@gmail.com.
+   Here is a video on how to work the application.
+#[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)

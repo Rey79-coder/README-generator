@@ -59,7 +59,7 @@ function promptUser() {
       
         {
             type: 'input',
-            name: 'installation',
+            name: 'Installation',
             message: 'How do you install your app?',
             // USE INQUIRER TO VALIDATE ANSWERS.
             validate: (value) => { if (value) { return true } else { return 'Steps needed' }}
@@ -67,7 +67,7 @@ function promptUser() {
         
         {
             type: 'input',
-            name: 'usage',
+            name: 'Usage',
             message: 'How do you use your app?',
             // USE INQUIRER TO VALIDATE ANSWERS.
             validate: (value) => { if (value) { return true } else { return 'Steps needed' }}
@@ -75,8 +75,8 @@ function promptUser() {
 
         {
             type: 'checkbox',
-            name: 'License',
-            message: 'Choose your license',
+            name: 'Licenses',
+            message: 'Choose your licenses',
             choices: [
                 "Apache",
                 "MCT",
@@ -130,7 +130,7 @@ function generateMarkdown(response) {
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [License](#Licenses)
+- [Licenses](#Licenses)
 - [Contribution](#Contribution)
 - [Link](#Link)
 - [Questions](#Questions)
@@ -142,7 +142,7 @@ function generateMarkdown(response) {
     ${response.Installation}
 ## Usage:
     ${response.Usage}
-## Contributing:
+## Contribution:
     ${response.Contribution}
 ## Link:
     ${response.Link}
@@ -151,11 +151,10 @@ function generateMarkdown(response) {
 ## email:
     ${response.email}
 
-## Questions about the README-Generator:
-    You can go to my GitHub page at the following Link:(https://github.com/Rey79-coder)
-For additional questions please reach out to my email at: ${response.email}.
-    Here is a video on how to work the application.
-#[Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
+## For addittional questions about README-Generator:
+   Please reach out to my email at: ${response.email}.
+   Here is a video on how to work the application.
+#[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
 `;
 }
 
