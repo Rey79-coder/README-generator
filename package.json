@@ -1,0 +1,25 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "readme-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rey79-coder/README-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Rey79-coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rey79-coder/README-generator/issues"
+  },
+  "homepage": "https://github.com/Rey79-coder/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
