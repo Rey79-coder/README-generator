@@ -138,29 +138,25 @@ function generateMarkdown(response) {
 
 ## Description:
     ${response.Description}
-## Installation:
+### Installation:
     ${response.installation}
-## Usage:
+#### Usage:
     ${response.usage}
-## Contributing:
+##### Contributing:
     ${response.Contribution}
-## Link:
+###### Link:
     ${response.Link}
-## Questions:
+###### Questions:
     ${response.Questions}
-## email:
+###### email:
     ${response.email}
 
-    For more information about the License, click on the link below.
-    
-- [License](https://opensource.org/licenses/${response.license})
-## Questions:
     For questions about the Generator you can go to my 
     GitHub page at the following Link: 
-- [GitHub Profile](https://github.com/${response.username})
+- [GitHub Profile](https://github.com/Rey79-coder${response.username})
 For additional questions please reach out to my email at: ${response.email}.
     Here is a video on how to work the application.
-- [Video](https://youtu.be/HQAggkj8EWs)
+- [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
 `;
 }
 
