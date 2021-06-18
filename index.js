@@ -125,7 +125,7 @@ function generateMarkdown(response) {
     return `
 # ${response.title}
 
-# Table of Content
+## Table of Content
 
 - [Description](#Description)
 - [Installation](#Installation)
@@ -136,26 +136,26 @@ function generateMarkdown(response) {
 - [Questions](#Questions)
 - [email](#email)
 
-# Description:
+## Description:
     ${response.Description}
-# Installation:
-    ${response.installation}
-# Usage:
-    ${response.usage}
-# Contributing:
+## Installation:
+    ${response.Installation}
+## Usage:
+    ${response.Usage}
+## Contributing:
     ${response.Contribution}
-# Link:
+## Link:
     ${response.Link}
-# Questions:
+## Questions:
     ${response.Questions}
-# email:
+## email:
     ${response.email}
 
-    # For questions about the Generator you can go to my 
-    GitHub page at the following Link:(https://github.com/Rey79-coder)
+## Questions about the README-Generator:
+    You can go to my GitHub page at the following Link:(https://github.com/Rey79-coder)
 For additional questions please reach out to my email at: ${response.email}.
     Here is a video on how to work the application.
-# [Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
+#[Video](https://drive.google.com/drive/u/0/folders/1mCNmRdW1njCDLqONjagt40iXQdfSa4vc)
 `;
 }
 
