@@ -1,5 +1,5 @@
 
-# Echeriri Covid/Killers Video Game
+# README Generator
 
 ## Table of Content
 
@@ -13,21 +13,23 @@
 - [email](#email)
 
 ## Description:
-    This video game is to promote Echeriri brand.  Potential audience are gamers, developers, and humans in general.Therefore, this free web browser video game. 
+    This code can remind you what an amazing repo must contain. With several prompt you can settle down your ideas and be ready to take the  project to next step. Asking for collaboration is way easier when you as a coder knows what you want an can write down. This code is the first professional step to start a repo.
 ## Installation:
-    You don't need any installation. Go to echeiriri.com/videogame/ to play it and have fun saving Earth.
+    You need to have installed the following tools, code editor, node, and npm require.
 ## Usage:
-    You can play it in any electronic device. For further instructions of how to play on specific platform visit: echeriri.com/videogame/instructions/
+    Open de integrated terminal in your command line and run the application by using the command node filename.
+## Licenses:
+    Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
-    Any developer interested in being part of Echeriri Web Development Department. Please contact me for more details.
+    Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
-    https://rey79-coder.github.io/README-generator/
+    https://github.com/Rey79-coder/README-generator
 ## Questions:
-    How are going to make profit with this video game?
+    It needs badge based. Include node_modules .DS_Store and .gitignore. Add validation to the choices questions.
 ## email:
     verareyna79@gmail.com
 
-## For addittional questions about README-Generator:
+## For additional questions about README-Generator:
    Please reach out to my email at: verareyna79@gmail.com.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)

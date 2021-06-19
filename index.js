@@ -76,7 +76,7 @@ function promptUser() {
         {
             type: 'checkbox',
             name: 'Licenses',
-            message: 'Choose your licenses',
+            message: 'Choose your Licenses',
             choices: [
                 "Apache",
                 "MCT",
@@ -142,6 +142,8 @@ function generateMarkdown(response) {
     ${response.Installation}
 ## Usage:
     ${response.Usage}
+## Licenses:
+    ${response.Licenses}
 ## Contribution:
     ${response.Contribution}
 ## Link:
@@ -151,7 +153,7 @@ function generateMarkdown(response) {
 ## email:
     ${response.email}
 
-## For addittional questions about README-Generator:
+## For additional questions about README-Generator:
    Please reach out to my email at: ${response.email}.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
