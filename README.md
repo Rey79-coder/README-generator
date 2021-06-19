@@ -1,8 +1,8 @@
 
-# README Generator
+# README.md Generator
 
 
-[GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
+[GitHub license](https://img.shields.io/badge/license-Apache,MCT,ISC,GNU GPLv3-blue.svg)
 
 ## Table of Content
 
@@ -22,7 +22,7 @@
 ## Usage:
     Open de integrated terminal in your command line and run the application by using the command node filename.
 ## Licenses:
-    Apache
+    Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
     Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
@@ -35,4 +35,5 @@
 ## For additional questions about README-Generator:
    Please reach out to my email at: verareyna79@gmail.com.
    Here is a video on how to work the application.
+   #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)

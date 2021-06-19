@@ -92,6 +92,7 @@ function promptUser() {
     ]);
 }
 
+
 function generateMarkdown(response) {
     return `
 # ${response.title}
@@ -130,6 +131,7 @@ function generateMarkdown(response) {
 ## For additional questions about README-Generator:
    Please reach out to my email at: ${response.email}.
    Here is a video on how to work the application.
+   #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
 `;
 }
