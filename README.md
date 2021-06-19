@@ -24,16 +24,16 @@
 ## Licenses:
     Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
-    Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
+    ny developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
     https://github.com/Rey79-coder/README-generator
 ## Questions:
-    Can I make copy of the read me file?
+    Can I make copy of the read me file? Yes, once you have settled down your idea you can save a copy for your future project.
 ## email:
-    Yes, once you have settled down your idea you can save a copy for your future project.
+    verareyna79@gmail.com
 
 ## For additional questions about README-Generator:
-   Please reach me out through my email: Yes, once you have settled down your idea you can save a copy for your future project..
+   Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
 
