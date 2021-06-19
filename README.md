@@ -1,6 +1,9 @@
 
 # README Generator
 
+
+[GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
+
 ## Table of Content
 
 - [Description](#Description)
@@ -13,19 +16,19 @@
 - [email](#email)
 
 ## Description:
-    This code can remind you what an amazing repo must contain. With several prompt you can settle down your ideas and be ready to take the  project to next step. Asking for collaboration is way easier when you as a coder knows what you want an can write down. This code is the first professional step to start a repo.
+    This code will hepl you write proffesional README.md. The more deta This code can remind you what an amazing repo must contain. With several prompt you can settle down your ideas and be ready to take the  project to next step. Asking for collaboration is way easier when you as a coder knows what you want an can write down. This code is the first professional step to start a repo.
 ## Installation:
     You need to have installed the following tools, code editor, node, and npm require.
 ## Usage:
     Open de integrated terminal in your command line and run the application by using the command node filename.
 ## Licenses:
-    Apache,MCT,ISC,GNU GPLv3
+    Apache
 ## Contribution:
     Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
-    https://github.com/Rey79-coder/README-generator
+     https://github.com/Rey79-coder/README-generator
 ## Questions:
-    It needs badge based. Include node_modules .DS_Store and .gitignore. Add validation to the choices questions.
+    How to make copy of the read me file and make changes on that one.
 ## email:
     verareyna79@gmail.com
 

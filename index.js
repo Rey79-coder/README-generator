@@ -1,7 +1,4 @@
-// TODO: Include packages needed for this application
-
-// TODO: Create an array of questions for user input
-// const questions = [];
+// TODO: MAKE SURE YOU INSTALLED NPM REQUIRE PKG.
 
 const inquirer = require('inquirer');
 const fs = require('fs');
@@ -15,38 +12,12 @@ function promptUser() {
     return inquirer.prompt(
     [
         {
-
             type: 'input',
             name: 'title',
             message: 'What is your project title?',
             // USE INQUIRER TO VALIDATE ANSWERS.
             validate: (value) => { if (value) { return true } else { return 'Requires title to continue' }}
         },
-
-        // {
-        //     type: 'checkbox',
-        //     name: 'Content Table',
-        //     message: 'Enter the table of content',
-        //     choices: [
-        //         "Description",
-        //         "Installation",
-        //         "Usage",
-        //         "License",
-        //         "Contribution",
-        //         "Questions"
-        //     ],
-            // USE INQUIRER TO VALIDATE ANSWERS.
-            // validate: (value) => { if (value) { return true } else { return 'Enter a list of the content for this Readme' }}
-        // },
-
-         // TABLE OF CONTENTS CHOICES.
-        // 1.- DESCRIPTION
-        // 2.- INSTALLATION
-        // 3.- USAGE INFO
-        // 4.- LICENSE
-        // 5.- CONTRIBUTIONS
-        // 6.- TESTS
-        // 7.- QUESTIONS
 
         {
             type: 'input',
@@ -84,7 +55,7 @@ function promptUser() {
                 "GNU GPLv3"
             ],
             // USE INQUIRER TO VALIDATE ANSWERS.
-            // validate: (value) => { if (value) { return true } else { return 'Enter a list of the content for this Readme' }}
+            validate: (value) => { if (value) { return true } else { return 'Choose a license' }}
         },
         
         {
@@ -124,6 +95,9 @@ function promptUser() {
 function generateMarkdown(response) {
     return `
 # ${response.title}
+
+
+[GitHub license](https://img.shields.io/badge/license-${response.Licenses}-blue.svg)
 
 ## Table of Content
 
@@ -177,41 +151,5 @@ async function init() {
 // function call to initialize program
 init();
 
-
-
-// ).then(({
-//     title,
-//     description,
-//     installation,
-//     link
-
-// })=> {
-
-      // TEMPLATE TO USE
-//    const template = `# ${title}
-
-//    * [title] (#title)
-//    * [description] (#description)
-//    * [installation] (#installation)
-//    * [link] (#link)
-   
-//    # title
-//    ${title}
-
-//    ## description
-//    ${description}
-
-//    ### installation
-//    ${installation}
-
-//    #### link
-//    ${link}
-
-//    // FUNCTION TO CREATE README
-//    createNew
-
-    
-// }
-// )
 
 
