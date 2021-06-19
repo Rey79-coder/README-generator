@@ -16,24 +16,27 @@
 - [email](#email)
 
 ## Description:
-    This code will hepl you write proffesional README.md. The more deta This code can remind you what an amazing repo must contain. With several prompt you can settle down your ideas and be ready to take the  project to next step. Asking for collaboration is way easier when you as a coder knows what you want an can write down. This code is the first professional step to start a repo.
+    This code can remind you what a profesional repo should contain. With several prompts you can settle down your ideas and be ready to take the project to next step. Asking for collaboration is way easier when you as a coder knows what you want and can write down. This code is the first step to start a repo.
 ## Installation:
-    You need to have installed the following tools, code editor, node, and npm require.
+    If you want you take advantage of this code. You need to install the following tools, code editor, node, and run npm require in terminal.
 ## Usage:
-    Open de integrated terminal in your command line and run the application by using the command node filename.
+    Pull a copy for yourself. Open in integrated terminal, type in node index.js in the command line. You will see the question and you will reply to them also in the command line.
 ## Licenses:
     Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
     Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
-     https://github.com/Rey79-coder/README-generator
+    https://github.com/Rey79-coder/README-generator
 ## Questions:
-    How to make copy of the read me file and make changes on that one.
+    Can I make copy of the read me file?
 ## email:
-    verareyna79@gmail.com
+    Yes, once you have settled down your idea you can save a copy for your future project.
 
 ## For additional questions about README-Generator:
-   Please reach out to my email at: verareyna79@gmail.com.
+   Please reach me out through my email: Yes, once you have settled down your idea you can save a copy for your future project..
    Here is a video on how to work the application.
-   #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
+
+For illustration purposes here is a snapshot of real live instance:
+#[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
+

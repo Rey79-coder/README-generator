@@ -129,10 +129,13 @@ function generateMarkdown(response) {
     ${response.email}
 
 ## For additional questions about README-Generator:
-   Please reach out to my email at: ${response.email}.
+   Please reach me out through my email: ${response.email}.
    Here is a video on how to work the application.
-   #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
 #[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
+
+For illustration purposes here is a snapshot of real live instance:
+#[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/Earth.jpeg)
+
 `;
 }
 
