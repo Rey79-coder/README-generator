@@ -2,7 +2,7 @@
 # README.md Generator
 
 
-[GitHub license](https://img.shields.io/badge/license-Apache,MCT,ISC-blue.svg)
+[GitHub license](https://img.shields.io/badge/license-Apache,MCT,ISC,GNU GPLv3-blue.svg)
 
 ## Table of Content
 
@@ -22,7 +22,7 @@
 ## Usage:
     Pull a copy for yourself. Open in integrated terminal, type in node index.js in the command line. You will see the question and you will reply to them also in the command line.
 ## Licenses:
-    Apache,MCT,ISC
+    Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
     Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 ## Link:
@@ -35,7 +35,7 @@
 ## For additional questions about README-Generator:
    Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video](https://drive.google.com/file/d/1E0htiQKqGOaNPBn43BvTGRmjzF2RB-Pn/view?usp=sharing)
+#[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
 
 For illustration purposes here is a snapshot of real live instance:
 #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/README-sample-template-1920x720.png)
