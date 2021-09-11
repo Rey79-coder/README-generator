@@ -1,8 +1,4 @@
-
-# README.md Generator
-
-
-[GitHub license](https://img.shields.io/badge/license-Apache,MCT,ISC,GNU GPLv3-blue.svg)
+# Sday flower Shop
 
 ## Table of Content
 
@@ -16,27 +12,27 @@
 - [email](#email)
 
 ## Description:
-    This code can remind you what a profesional repo should contain. With several prompts you can settle down your ideas and be ready to take the project to next step. Asking for collaboration is way easier when you as a coder knows what you want and can write down. This code is the first step to start a repo.
+    Web applicattion where users can place order to buy flowers, hire event flowers design, and fast delivery. The purpose of the website is to support every local flower shop because when a customer place the order the website will get the the bucket flower from the closest flower shop of the destination.
 ## Installation:
-    If you want you take advantage of this code. You need to install the following tools, code editor, node, and run npm require in terminal.
+    You will need a bunch of things.
 ## Usage:
-    Pull a copy for yourself. Open in integrated terminal, type in node index.js in the command line. You will see the question and you will reply to them also in the command line.
+    You access to the website, log in for an account, choose your favorite design and place the order. We'll do the rest.
 ## Licenses:
     Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
-    Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
+    Contact us first.
 ## Link:
-    https://github.com/Rey79-coder/README-generator
+    https://github.com/Rey79-coder/Sday
 ## Questions:
-    Can I make copy of the read me file? Yes, once you have settled down your idea you can save a copy for your future project.
+    How are we  going to manage the deliveries and what are the requirments for the flowers shop to be part of our network as vendors?
 ## email:
     verareyna79@gmail.com
 
-## For additional questions about README-Generator:
+## For additional questions:
    Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
+#[Video]()
 
 For illustration purposes here is a snapshot of real live instance:
-#[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/README-sample-template-1920x720.png)
+#[Images]()
 

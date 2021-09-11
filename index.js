@@ -128,7 +128,7 @@ function generateMarkdown(response) {
 ## email:
     ${response.email}
 
-## For additional questions about README-Generator:
+## For additional questions:
    Please reach me out through my email: ${response.email}.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
