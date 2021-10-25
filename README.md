@@ -1,4 +1,6 @@
-# Sday flower Shop
+
+# testing
+
 
 ## Table of Content
 
@@ -12,27 +14,27 @@
 - [email](#email)
 
 ## Description:
-    Web applicattion where users can place order to buy flowers, hire event flowers design, and fast delivery. The purpose of the website is to support every local flower shop because when a customer place the order the website will get the the bucket flower from the closest flower shop of the destination.
+    tesntind
 ## Installation:
-    You will need a bunch of things.
+    npm i
 ## Usage:
-    You access to the website, log in for an account, choose your favorite design and place the order. We'll do the rest.
+    on every project
 ## Licenses:
-    Apache,MCT,ISC,GNU GPLv3
+    MIT
 ## Contribution:
-    Contact us first.
+    contact me
 ## Link:
-    https://github.com/Rey79-coder/Sday
+    echeriri.com
 ## Questions:
-    How are we  going to manage the deliveries and what are the requirments for the flowers shop to be part of our network as vendors?
+    hello
 ## email:
-    verareyna79@gmail.com
+    cece@kdkd.com
 
 ## For additional questions:
-   Please reach me out through my email: verareyna79@gmail.com.
+   Please reach me out through my email: cece@kdkd.com.
    Here is a video on how to work the application.
-#[Video]()
+#[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
 
 For illustration purposes here is a snapshot of real live instance:
-#[Images]()
+#[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/README-sample-template-1920x720.png)
 

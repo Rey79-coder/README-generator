@@ -45,14 +45,17 @@ function promptUser() {
         },  
 
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'Licenses',
             message: 'Choose your Licenses',
             choices: [
-                "Apache",
-                "MCT",
+                "MIT",
+                "Unlicense",
+                "Apache 2.0",
+                "GNU v3",
+                "BSD 3-Clause",
                 "ISC",
-                "GNU GPLv3"
+                "Mozilla Public License 2.0"
             ],
             // USE INQUIRER TO VALIDATE ANSWERS.
             validate: (value) => { if (value) { return true } else { return 'Choose a license' }}
@@ -97,8 +100,6 @@ function generateMarkdown(response) {
     return `
 # ${response.title}
 
-
-[GitHub license](https://img.shields.io/badge/license-${response.Licenses}-blue.svg)
 
 ## Table of Content
 
