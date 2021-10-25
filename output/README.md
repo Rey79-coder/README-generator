@@ -14,7 +14,7 @@
   -[email](#email)
   
   ## Description: 
-      This code can remind you what a profesional repo should contain. With several prompts throug the command line you can settle down your ideas and be ready to take the project to next step. Asking for collaboration is way easier when you as a coder knows what you want and what tools you can use. This code is the first step to start a repo.
+      This code will help you to keep your repos in a professional way. With several prompts through the command line you can settle down your ideas and be ready to take the project to next step. Asking for collaboration is way easier when you as a coder knows what you want and what tools you can use. This code is the first step to start a repo.
 
   ## Installation:
       If you want you take advantage of this code. You need to install the following tools, code editor, node, and run in terminal npm require.
@@ -29,7 +29,7 @@
       Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
 
   ## Link:  
-      https://github.com/Rey79-coder/README-generator
+      https://github.com/Rey79-coder/README-generator/tree/develop/output
 
   ## Questions:  
       Should I make copy of the generated read me file for a different project? Yes, once you have settled down your idea you can save a copy for your future project.
@@ -38,13 +38,14 @@
       verareyna79@gmail.com
 
   ## For additional questions:
-      Please reach me out through my email: verareyna79@gmail.com.
-      Here is a video on how to work the application.
+    Please reach me out through my email: verareyna79@gmail.com.
   
-  ## Video (Comming up...)
+  ## Video 
+    (Comming up...)
+    There is a video showing on how to work the application.
    
-   For illustration purposes here is a snapshot of real live instance:
-   
-  ## Images (Comming up...)
+  ## Images 
+    (Comming up...)
+    For illustration purposes there is a snapshot of real live instance.
    
    

@@ -44,14 +44,15 @@ ${response.licenseBadge}
       ${response.email}
 
   ## For additional questions:
-      Please reach me out through my email: ${response.email}.
-      Here is a video on how to work the application.
+    Please reach me out through my email: ${response.email}.
   
-  ## Video (Comming up...)
+  ## Video 
+    (Comming up...)
+    There is a video showing on how to work the application.
    
-   For illustration purposes here is a snapshot of real live instance:
-   
-  ## Images (Comming up...)
+  ## Images 
+    (Comming up...)
+    For illustration purposes there is a snapshot of real live instance.
    
    `;
    }
