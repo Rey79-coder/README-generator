@@ -13,13 +13,13 @@ ${response.licenseBadge}
   -[Description](#Description)
   -[Installation](#Installation)
   -[Usage](#Usage)
-  -[License](#Licenses)
+  -[Licenses](#Licenses)
   -[Contribution](#Contribution)
   -[Link](#Link)
   -[Questions](#Questions)
   -[email](#email)
   
-  ##Description: 
+  ## Description: 
       ${response.Description}
 
   ## Installation:
@@ -28,8 +28,8 @@ ${response.licenseBadge}
   ## Usage:
       ${response.Usage}
   
-  ## License:
-     This repository is licensed under the ${response.Licenses} license.
+  ## Licenses:
+     This repository is licensed under the ${response.license} license.
 
   ## Contribution:
       ${response.Contribution}
