@@ -23,7 +23,7 @@
       Pull a copy for yourself. Open in integrated terminal, type in node index.js or npm start in the command line. You will see the questions and you will reply to them also in the command line.
   
   ## Licenses:
-     This repository is licensed under the undefined license.
+     This repository is licensed under the MIT license.
 
   ## Contribution:
       Any developer interested in working with me in a collaboration please contact me. We'll discuss further details.
@@ -40,9 +40,11 @@
   ## For additional questions:
       Please reach me out through my email: verareyna79@gmail.com.
       Here is a video on how to work the application.
-   #[Video](Comming up...)
+  
+  ## Video (Comming up...)
    
    For illustration purposes here is a snapshot of real live instance:
-   #[Images](Comming up...)
+   
+  ## Images (Comming up...)
    
    

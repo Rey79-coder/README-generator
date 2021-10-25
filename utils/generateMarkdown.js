@@ -46,10 +46,12 @@ ${response.licenseBadge}
   ## For additional questions:
       Please reach me out through my email: ${response.email}.
       Here is a video on how to work the application.
-   #[Video](Comming up...)
+  
+  ## Video (Comming up...)
    
    For illustration purposes here is a snapshot of real live instance:
-   #[Images](Comming up...)
+   
+  ## Images (Comming up...)
    
    `;
    }
