@@ -37,6 +37,12 @@ ${response.licenseBadge}
   ## Link:  
       ${response.Link}
 
+  ## Questions:  
+      ${response.Questions}
+
+  ## email:  
+      ${response.email}
+
   ## For additional questions:
       Please reach me out through my email: ${response.email}.
       Here is a video on how to work the application.
@@ -47,5 +53,5 @@ ${response.licenseBadge}
    
    `;
    }
-   
+
 module.exports = generateMarkdown;
