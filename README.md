@@ -1,5 +1,5 @@
 
-# testing
+# testung
 
 
 ## Table of Content
@@ -14,24 +14,24 @@
 - [email](#email)
 
 ## Description:
-    tesntind
+    heheheh
 ## Installation:
-    npm i
+    jsjsjsjs
 ## Usage:
-    on every project
+    jsjsjsj
 ## Licenses:
-    MIT
+    ISC
 ## Contribution:
-    contact me
+    dadsf
 ## Link:
-    echeriri.com
+    sdsds
 ## Questions:
-    hello
+    sdsds
 ## email:
-    cece@kdkd.com
+    sdsdssd
 
 ## For additional questions:
-   Please reach me out through my email: cece@kdkd.com.
+   Please reach me out through my email: sdsdssd.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
 
