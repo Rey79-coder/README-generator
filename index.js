@@ -48,16 +48,15 @@ function promptUser() {
         },  
 
         {
-            type: 'list',
-            name: 'Licenses',
-            message: 'Choose your Licenses',
+            type: "list",
+            message: "What license should your project have?",
+            name: "license",
             choices: [
                 "MIT",
                 "Unlicense",
                 "Apache 2.0",
                 "GNU v3",
                 "BSD 3-Clause",
-                "ISC",
                 "Mozilla Public License 2.0"
             ],
             // USE INQUIRER TO VALIDATE ANSWERS.
